@@ -1,4 +1,4 @@
-function compareList(obj) {
+export default function compareList(obj) {
     obj = obj || {};
     var { listBefore, listNow, key } = obj;
     if (typeof listBefore !== 'object') {
