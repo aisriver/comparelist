@@ -1,0 +1,27 @@
+{
+  "name": "comparelist",
+  "version": "1.0.1",
+  "description": "Compare two array for 'remove list' 'add list' and same key. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisriver/comparelist.git"
+  },
+  "keywords": [
+    "array",
+    "compare",
+    "list",
+    "object",
+    "remove",
+    "add"
+  ],
+  "author": "Jared",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisriver/comparelist/issues"
+  },
+  "homepage": "https://github.com/aisriver/comparelist#readme"
+}
