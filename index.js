@@ -1,4 +1,4 @@
-export default function compareList(obj) {
+var compareList = function (obj) {
     obj = obj || {};
     var { listBefore, listNow, key } = obj;
     if (typeof listBefore !== 'object') {
@@ -94,3 +94,7 @@ export default function compareList(obj) {
         return {};
     }
 }
+
+compareList.prototype.constructor = compareList;
+
+module.exports = compareList;
