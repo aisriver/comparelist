@@ -3,8 +3,8 @@ Compare two array for 'remove list' 'add list' and same key.
 
 # how to use
 ## step 1
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-cnpm install comparelist --save
+- npm install -g cnpm --registry=https://registry.npm.taobao.org
+- cnpm install comparelist --save
 
 ## step 2
 import comparelist from 'comparelist';
