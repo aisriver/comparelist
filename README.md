@@ -1,4 +1,5 @@
 # comparelist
+比较数组前后的变化，新增或删除了哪些
 Compare two array for 'remove list' 'add list' and same key. 
 
 # how to use
