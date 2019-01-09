@@ -24,11 +24,11 @@ var result = comparelist({
 });
 
 console.log(result);
-<!-- { 
+{ 
     removeList: [ 1, 2 ], 
     addList: [ 5, 6 ], 
     sameKey: [ 3, 4 ] 
-} -->
+}
 
 - use 2
 
@@ -52,7 +52,7 @@ var result = comparelist({
 });
 
 console.log(result);
-<!-- { 
+{ 
     removeList: [ 
     { id: 1, ... }, 
     { id: 2, ... } ], 
@@ -61,7 +61,7 @@ console.log(result);
         { id: 6, ... } 
     ], 
     sameKey: [ 3, 4 ] 
-} -->
+}
 
 解决重复劳动力是一件很有意义的事情，
 有什么好的想法，欢迎一起成长交流

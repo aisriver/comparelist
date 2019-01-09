@@ -1,6 +1,6 @@
 {
   "name": "comparelist",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "比较数组前后的变化，新增或删除了哪些 ",
   "main": "index.js",
   "scripts": {
