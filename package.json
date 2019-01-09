@@ -1,6 +1,6 @@
 {
   "name": "comparelist",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Compare two array for 'remove list' 'add list' and same key. ",
   "main": "index.js",
   "scripts": {
